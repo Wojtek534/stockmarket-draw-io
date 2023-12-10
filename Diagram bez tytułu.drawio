@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T19:33:13.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.7" etag="iZSCo4fOiu0-XMWuAEBP" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T19:39:35.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="R_TTqLAxq8avNBDxwncR" version="22.1.7" type="github">
   <diagram name="Strona-1" id="mM8XAsBqv4x4Bivd-nLs">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VzqkJZjQLEDMQbsC97g3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontStyle=0;fontSize=16;strokeWidth=2;" edge="1" parent="1" source="VzqkJZjQLEDMQbsC97g3-1" target="VzqkJZjQLEDMQbsC97g3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzqkJZjQLEDMQbsC97g3-1" value="Great, i have found a nice stock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="354" y="60" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VzqkJZjQLEDMQbsC97g3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontStyle=0;fontSize=16;strokeWidth=2;" edge="1" parent="1" source="VzqkJZjQLEDMQbsC97g3-2" target="VzqkJZjQLEDMQbsC97g3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzqkJZjQLEDMQbsC97g3-2" value="Is it on my blacklist?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="354" y="200" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VzqkJZjQLEDMQbsC97g3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontStyle=0;fontSize=16;strokeWidth=2;" edge="1" parent="1" source="VzqkJZjQLEDMQbsC97g3-5" target="VzqkJZjQLEDMQbsC97g3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzqkJZjQLEDMQbsC97g3-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=default;dashed=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontStyle=0;fontSize=14;" edge="1" parent="1" source="VzqkJZjQLEDMQbsC97g3-5" target="VzqkJZjQLEDMQbsC97g3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzqkJZjQLEDMQbsC97g3-5" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;Blacklist&lt;/h1&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;ol style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;Bank&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;Insurance&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;Healthcare&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;Car / autoparts industry&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="215" width="190" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="VzqkJZjQLEDMQbsC97g3-10" value="Don&#39;t buy it" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="215" width="120" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
